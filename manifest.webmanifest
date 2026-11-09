@@ -1,0 +1,32 @@
+{
+  "name": "العقارات — عقارات للبيع والإيجار",
+  "short_name": "العقارات",
+  "description": "العقارات — شقق ومنازل وأراضي للبيع والإيجار بمواصفات وصور حقيقية، ومعاينة على الطبيعة.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#120d08",
+  "theme_color": "#120d08",
+  "icons": [
+    {
+      "src": "img/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "img/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "img/icon-1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
